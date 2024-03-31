@@ -1,4 +1,4 @@
-Exercise - Retrieve Data Using Text Query (SELECT, WHERE, DISTINCT, LIKE)
+## Exercise - Retrieve Data Using Text Query (SELECT, WHERE, DISTINCT, LIKE)
 
 Write SQL queries for the following:
 
