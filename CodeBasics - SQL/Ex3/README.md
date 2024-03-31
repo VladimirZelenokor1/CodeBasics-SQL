@@ -1,4 +1,4 @@
-Exercise - Summary Analytics (MIN, MAX, AVG, GROUP BY)
+## Exercise - Summary Analytics (MIN, MAX, AVG, GROUP BY)
 
 1. How many movies were released between 2015 and 2022
 2. Print the max and min movie release year
