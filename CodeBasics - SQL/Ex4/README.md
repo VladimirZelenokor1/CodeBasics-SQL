@@ -1,4 +1,4 @@
-Exercise - SQL Joins (INNER, LEFT, RIGHT, FULL)
+## Exercise - SQL Joins (INNER, LEFT, RIGHT, FULL)
 
 Write SQL queries for the following,
 
