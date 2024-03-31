@@ -1,4 +1,4 @@
-Exercise - Join More Than Two Tables
+## Exercise - Join More Than Two Tables
 
 Write SQL queries for the following,
 
