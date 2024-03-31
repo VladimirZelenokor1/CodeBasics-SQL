@@ -1,4 +1,5 @@
 Exercise - SQL Joins (INNER, LEFT, RIGHT, FULL)
+
 Write SQL queries for the following,
 
 1. Show all the movies with their language names
