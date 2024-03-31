@@ -14,5 +14,3 @@ Course Curriculum:
 6) Window Functions (Over, ROW_NUMBER, RANK, DENSE_RANK, etc.)
 7) Data Engineer-Specific Topis: Indexes, Triggers, Events, User Accounts & Privileges
 8) Kanban Project Management
-9) Real dataset with >1 million records with industry-style project-based learning
-10) Exercises, Quizzes, and Certificate Upon Course Completion
