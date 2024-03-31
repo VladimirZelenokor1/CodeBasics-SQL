@@ -1,4 +1,5 @@
 Exercise - Retrieve Data Using Text Query (SELECT, WHERE, DISTINCT, LIKE)
+
 Write SQL queries for the following:
 
 1. Print all movie titles and release year for all Marvel Studios movies.
